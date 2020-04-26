@@ -17,7 +17,7 @@ Dynamic Route Table Count (Depends on subnet count)
 3. Be able to enable Monitoring
 
 ## Usage
-```json
+```hcl
 module "vpc" {
     source = "../../../terraform/modules"
     region                       = "ap-northeast-1"
