@@ -1,4 +1,7 @@
 # AWS VPC Terraform Module
+
+[![CircleCI](https://circleci.com/gh/teamulap/terraform-aws-module-vpc/tree/master.svg?style=svg&circle-token=6a1e1156728580b5fd2a759ad8ec5effbd7bb405)](https://circleci.com/gh/teamulap/terraform-aws-module-vpc/tree/master)
+
 This module creates a ready-to-use AWS VPC.
 
 ## Change Log
